@@ -1,0 +1,4 @@
+// it is an object where we define presets
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
